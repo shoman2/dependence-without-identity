@@ -1,0 +1,7 @@
+exposure,controls,coef,t,treated
+all AI terms,False,0.06918944909214514,1.7684499855024642,180
+all AI terms,True,0.07910055659808995,1.7917474269051394,180
+all AI terms — p90–95 / p95+,False,0.122 / 0.030,1.89 / 0.65,
+infrastructure terms only,False,0.038581578515126023,1.0125005844352266,180
+infrastructure terms only,True,0.04050751383418955,0.9417494228375499,180
+infrastructure terms only — p90–95 / p95+,False,-0.025 / 0.095,-0.50 / 1.80,

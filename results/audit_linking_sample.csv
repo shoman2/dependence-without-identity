@@ -1,0 +1,101 @@
+member,cust_cik,linked_name,link_method
+AtlanticCityElectric,8192,ATLANTIC CITY ELECTRIC CO,exact
+MacysInc,794367,"MACY'S, INC.",exact
+UnitedMicroelectronicsCorporation,1033767,UNITED MICROELECTRONICS CORP,exact
+Amazon.com,1018724,AMAZON COM INC,exact
+AlphaNaturalResources,1301063,"ALPHA NATURAL RESOURCES, INC.",exact
+VERITIV,1599489,VERITIV CORP,exact
+Chrysler,1513153,FCA US LLC,exact
+DiamondOffshoreDrillingInc,949039,"DIAMOND OFFSHORE DRILLING, INC.",exact
+AmazonCom,1018724,AMAZON COM INC,exact
+AmgenInc.,318154,AMGEN INC,exact
+InfineraCorporation,1138639,INFINERA CORP,exact
+AveryDennison,8818,AVERY DENNISON CORP,exact
+UnitedNaturalFoodsInc.,1020859,UNITED NATURAL FOODS INC,exact
+ChevronTexaco,93410,CHEVRON CORP,exact
+WalmartInc.,104169,WALMART INC.,exact
+ArrisCorporation,1141107,ARRIS GROUP INC,exact
+AmerisourcebergenCorp,1140859,"CENCORA, INC.",exact
+PGandE,1004980,PG&E CORP,exact
+GeHealthcare,1932393,GE HEALTHCARE TECHNOLOGIES INC.,exact
+Amazoncom,1018724,AMAZON COM INC,exact
+MicronTechnology,723125,MICRON TECHNOLOGY INC,exact
+ModernaInc,1682852,"MODERNA, INC.",exact
+LBrands,701985,"BATH & BODY WORKS, INC.",exact
+AerojetRocketdyne,40888,"AEROJET ROCKETDYNE HOLDINGS, INC.",exact
+EogResourcesInc,821189,EOG RESOURCES INC,exact
+Cigna,1739940,CIGNA GROUP,exact
+CVSCaremark,64803,CVS HEALTH CORP,exact
+GlaxoSmithKlineLLC,1131399,GSK PLC,exact
+Viatris,1792044,VIATRIS INC,exact
+EcoEnergyInc,1650505,"AIFARM, LTD.",prefix
+CarrierA,1027484,"CARRIER ALLIANCE HOLDINGS, INC.",prefix
+ABBLtd,1091587,ABB LTD,exact
+LyondellbasellIndustries,1489393,LYONDELLBASELL INDUSTRIES N.V.,prefix
+Microsoft,789019,MICROSOFT CORP,exact
+Covidien,1385187,COVIDIEN PLC,exact
+WholeFoodsMarket,865436,WHOLE FOODS MARKET INC,exact
+SunocoLogisticPartnersL.P.,1161154,"ENERGY TRANSFER OPERATING, L.P.",fuzzy
+AclarisTherapeutics,1557746,"ACLARIS THERAPEUTICS, INC.",exact
+CompanyOne,1816613,MARKFORGED HOLDING CORP,exact
+CencoraInc.,1140859,"CENCORA, INC.",exact
+ComcastCorporation,1166691,COMCAST CORP,exact
+PipelineCompany,1855175,"CONTINEUM THERAPEUTICS, INC.",prefix
+WayfairInc,1616707,WAYFAIR INC.,exact
+ActavisInc,1578845,ALLERGAN PLC,exact
+BristolMeyersSquibbCompany,14272,BRISTOL MYERS SQUIBB CO,fuzzy
+LamResearchCorporation,707549,LAM RESEARCH CORP,exact
+PrecisionCastpartsCorporation,79958,PRECISION CASTPARTS CORP,exact
+BrookdaleSeniorLiving,1332349,BROOKDALE SENIOR LIVING INC.,exact
+ProcterAndGambleCompany,80424,PROCTER & GAMBLE CO,exact
+Indivior,1625297,"INDIVIOR PHARMACEUTICALS, INC.",exact
+MobileTelesystemsOjsc,1115837,MOBILE TELESYSTEMS PUBLIC JOINT STOCK CO,exact
+CaterpillarInc,18230,CATERPILLAR INC,exact
+McDermottInc.,708819,MCDERMOTT INTERNATIONAL INC,prefix
+Equifax,33185,EQUIFAX INC,exact
+CarnivalCruiseLine,815097,CARNIVAL CORP LTD.,prefix
+WalMartStoresInc.,104169,WALMART INC.,exact
+CHS,823277,CHS INC,exact
+WalMartInc,104169,WALMART INC.,exact
+EQTCorporation,33213,EQT CORP,exact
+PacificGasAndElectric,1004980,PG&E CORP,exact
+NokiaCorporation,924613,NOKIA CORP,exact
+Mckesson,927653,MCKESSON CORP,exact
+Shell,1306965,SHELL PLC,exact
+ConnecticutLightAndPower.,23426,CONNECTICUT LIGHT & POWER CO,exact
+EliLillyAndCompany,59478,ELI LILLY & CO,exact
+EliLillyAndCo,59478,ELI LILLY & CO,exact
+Comtech,23197,COMTECH TELECOMMUNICATIONS CORP /DE/,exact
+HealthMarketsInc,773660,"HEALTHMARKETS, INC.",exact
+McKesson,927653,MCKESSON CORP,exact
+WellPoint,1156039,"ELEVANCE HEALTH, INC.",exact
+ConocoPhillipsCompany,1163165,CONOCOPHILLIPS,exact
+KrogerCompany,56873,KROGER CO,exact
+BauschAndLombInc,1860742,BAUSCH & LOMB CORP,exact
+DiamondbackEnergyInc.,1539838,"DIAMONDBACK ENERGY, INC.",exact
+ChinaPetroleumChemicalCorporation,1123658,CHINA PETROLEUM & CHEMICAL CORP,fuzzy
+CrescoLabsLlc,1832928,CRESCO LABS INC.,exact
+FreeportMcMoRan,831259,FREEPORT-MCMORAN INC,exact
+CoreMarkHoldingCompanyInc.,1318084,"CORE-MARK HOLDING COMPANY, INC.",exact
+AvisBudgetGroupInc,723612,"AVIS BUDGET GROUP, INC.",exact
+DTEElectric,28385,DTE ELECTRIC CO,exact
+MacySInc,794367,"MACY'S, INC.",exact
+EniSpa,1002242,ENI SPA,exact
+USEC,1065059,CENTRUS ENERGY CORP,exact
+BeaconRoofingSupplyInc,1124941,"QXO BUILDING PRODUCTS, INC.",exact
+Walgreens,104207,WALGREEN CO,fuzzy
+DISHNetwork,1001082,DISH NETWORK CORP,exact
+Sprint,101830,SPRINT CORP,exact
+Premier,1577916,"PREMIER, INC.",exact
+MicronTechnologyInc.,723125,MICRON TECHNOLOGY INC,exact
+Expedia,1324424,"EXPEDIA GROUP, INC.",exact
+GoldcorpInc,1444839,BRAVO MULTINATIONAL INC.,exact
+MerckSharpAndDohmeCorporation,64978,MERCK SHARP & DOHME CORP.,exact
+MicrosoftMember,789019,MICROSOFT CORP,exact
+AmericanAirlinesCorporation,4515,"AMERICAN AIRLINES, INC.",exact
+ATAndT,732717,AT&T INC.,exact
+EMC,790070,EMC CORP,exact
+RaytheonCompany,1047122,RAYTHEON CO/,exact
+HomeDepot,354950,"HOME DEPOT, INC.",exact
+AtAndT,732717,AT&T INC.,exact
+Rentech,868725,"RENTECH, INC.",exact

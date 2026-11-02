@@ -1,0 +1,7 @@
+.venv/
+data/
+__pycache__/
+.sec_user_agent
+*.parquet
+*.log
+paper/
