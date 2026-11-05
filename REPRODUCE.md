@@ -1,4 +1,4 @@
-# Reproduction guide — "Dependence without identity"
+# Reproduction guide — "Who is Customer A?"
 
 All inputs are public SEC EDGAR data (Financial Statement and Notes data sets, XBRL frames and company-facts APIs, 10-K filings). No proprietary databases are used.
 

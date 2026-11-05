@@ -1,6 +1,6 @@
-# Dependence without identity — code and data pipeline
+# Who is Customer A? — code and data pipeline
 
-Replication code for *"Dependence without identity: Anonymous major customers and the blind spot in disclosed supply chains"* (working paper, under preparation for submission).
+Replication code for *"Who is Customer A? Anonymous major customers and the blind spot in disclosed supply chains"* (working paper, under preparation for submission).
 
 U.S. GAAP requires firms to disclose revenue from each customer that accounts for 10% or more of sales but not to name the customer. This repository builds a census of every major-customer fact tagged in SEC XBRL filings (2009–2026), classifies each customer as named or anonymous, links named customers to SEC registrants, validates anonymity against the full 10-K text, and reproduces all tables and figures of the paper: trends and decompositions of anonymity, the dollar-weighted "blind spot" of named-only supply-chain networks, partial-identification bounds for key customers, the AI-exposure difference-in-differences, and a link-recovery benchmark (learning-to-rank and graph autoencoders).
 
